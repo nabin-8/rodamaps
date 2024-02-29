@@ -28,5 +28,8 @@ Discover detailed roadmaps for Python, JavaScript, AI, Java, Data Science, Machi
 #### 8.Python For AI
 - [link](./8.Python%20For%20AI/README.md)
 
+#### 9.DataScience with Generative AI
+- [link](./9.DataScience%20with%20Generative%20AI/README.md)
+
 #### 10.C++ with DSA
 - [link](./10.DSA%20with%20C++/README.md)

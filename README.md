@@ -16,6 +16,9 @@ Discover detailed roadmaps for Python, JavaScript, AI, Java, Data Science, Machi
  1. [Vue.js](./2.FRONTEND/Vue.js.md) 
  2. [Angular.js](./2.FRONTEND/Angular.js.md)
 
+#### 4.Python-Django
+- [link](./4.Python-Django/README.md)
+
 #### 5.PHP-Laravel
 - [link](./5.Php-Laravel/README.md)
 
@@ -33,3 +36,12 @@ Discover detailed roadmaps for Python, JavaScript, AI, Java, Data Science, Machi
 
 #### 10.C++ with DSA
 - [link](./10.DSA%20with%20C++/README.md)
+
+#### 11.DSA with JavaScript
+- [link](./11.DSA%20with%20Javascript/README.md)
+
+#### 13.MongoDB
+- [link](./13.MongoDB/README.md)
+
+#### 14.DSA with Python
+- [link](./14.DSA%20with%20Python/README.md)
